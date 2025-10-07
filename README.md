@@ -10,11 +10,9 @@
 - 🎯 **Especialización**: Análisis operativo y optimización de procesos
 - 💡 **Filosofía**: *"Los datos no mienten, pero hay que saber hacerles las preguntas correctas"*
 
-### 🌐 Enlaces de Contacto
+### 🌐 Enlace de Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0v4nn3ss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 ## 🤝 Contribuciones
 
@@ -93,18 +91,21 @@ Modelo_Agrupacion = "Quincenal por zona"
 ## � Características Técnicas
 
 ### 📊 Dataset
+
 - **Registros**: 100 pedidos de enero 2024
 - **Zonas geográficas**: 3 (Norte, Centro, Sur)
 - **Tipos de cliente**: Minorista, Mayorista, Distribuidor
 - **Variables**: ID, fechas, zona, peso, volumen, costo, tipo cliente, estado
 
 ### 🧮 Modelado de Costos
+
 - **Costo fijo**: $10,000 por viaje
 - **Costo variable**: $100 por cada 100kg
 - **Frecuencia propuesta**: 2 despachos semanales por zona
 - **Algoritmo**: Agrupación por zona y semana calendario
 
 ### 📈 Métricas de Evaluación
+
 - Ahorro porcentual y absoluto
 - Reducción de frecuencia de viajes
 - Impacto en tiempos de entrega
@@ -132,7 +133,9 @@ textil-despachos/
 | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white) | Visualización base | Latest |
 | ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white) | Gráficos estadísticos | Latest |
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | Entorno interactivo | Latest |
+
 - **Jupyter Notebook** - Entorno de desarrollo interactivo
+
 ## 🚀 Instalación y Ejecución
 
 ### ⚡ Inicio Rápido

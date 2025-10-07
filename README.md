@@ -64,20 +64,22 @@ Evaluar la viabilidad de optimizar la estrategia logística mediante la agrupaci
 
 ```python
 # Resultados principales del análisis
-Ahorro_Total = "$2,324,412 (92.9%)"
-Reduccion_Viajes = "85 viajes menos (85.0%)"
-Retraso_Promedio = "1.1 días"
-ROI_Anual = "$2.3M"
+Ahorro_Total = "$940,000 (91.4%)"
+Reduccion_Viajes = "94 viajes menos (94.0%)"
+Eficiencia_Logistica = "De 100 a 6 viajes"
+Modelo_Agrupacion = "Quincenal por zona"
 ```
 
 ## 📈 Resultados Principales
 
+![Resumen Ejecutivo](images/resumen_ejecutivo.png)
+
 ### 💰 Beneficios Cuantificados
 
-- **Reducción de costos**: 92.9% de ahorro ($2,324,412 de $2,502,978 totales)
-- **Eficiencia operativa**: 85.0% de reducción en viajes (de 100 a 15 viajes)
-- **Impacto en servicio**: Retraso promedio de solo 1.1 días
-- **Costo por viaje**: Reducción de $25,030 a $11,904 promedio por viaje
+- **Reducción de costos**: 91.4% de ahorro ($940,000 de $1,028,566 totales)
+- **Eficiencia operativa**: 94.0% de reducción en viajes (de 100 a 6 viajes)
+- **Consolidación efectiva**: Agrupación quincenal por zona geográfica
+- **Optimización logística**: Reducción significativa en costos fijos de transporte
 
 ### 🗺️ Análisis por Zona Geográfica
 

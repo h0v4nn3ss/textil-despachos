@@ -8,9 +8,7 @@
 
 ## 📊 Descripción del Proyecto
 
-Este proyecto presenta un análisis completo de optimización logística para una empresa textil, desarrollado como demostración de capacidades en **ciencia de datos aplicada a problemas empresariales reales**.
-
-El análisis compara el modelo actual de despachos individuales contra un modelo propuesto de despachos agrupados dos veces por semana, utilizando técnicas de análisis de datos, modelado de costos y visualización avanzada.
+Este proyecto nace de mi experiencia en una fábrica textil, donde observé cómo la falta de planificación de despachos generaba altos costos logísticos. A partir de esa observación, desarrollé una simulación de escenarios usando datos ficticios para evaluar el impacto de agrupar despachos semanales.
 
 ## 🎯 Objetivo del Análisis
 

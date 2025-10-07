@@ -79,14 +79,14 @@ Modelo_Agrupacion = "Quincenal por zona"
 - **Consolidación efectiva**: Agrupación quincenal por zona geográfica
 - **Optimización logística**: Reducción significativa en costos fijos de transporte
 
-### 🗺️ Análisis por Zona Geográfica
+### � Métricas de Optimización
 
-| Zona | Ahorro (%) | Ahorro ($) | Reducción Viajes | Retraso (días) |
-|------|------------|------------|------------------|----------------|
-| Sur | 93.3% | $822,009 | 28 | 1.0 |
-| Centro | 92.7% | $755,139 | 27 | 1.2 |
-| Norte | 92.6% | $747,264 | 30 | 1.1 |
-| **TOTAL** | **92.9%** | **$2,324,412** | **85** | **1.1** |
+| Métrica | Escenario Actual | Escenario Propuesto | Mejora |
+|---------|------------------|---------------------|---------|
+| **Costo Total** | $1,028,566 | $88,566 | **91.4%** ↓ |
+| **Número de Viajes** | 100 viajes | 6 viajes | **94.0%** ↓ |
+| **Estrategia** | Individual | Agrupación quincenal | **Optimizada** |
+| **Eficiencia** | 1 viaje/pedido | 16.7 pedidos/viaje | **×16.7** ↑ |
 
 ## � Características Técnicas
 

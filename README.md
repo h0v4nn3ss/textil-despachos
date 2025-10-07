@@ -1,44 +1,7 @@
 # 📦 Análisis de Optimización Logística: Despachos Textiles
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Jupyter](https://img.shields.io/bad## 👨‍💻 Sobre el Autor
-
-**Andrés Ohannessian** - Analista de Datos | Especialista en Optimización Logística
-
-- 🔬 **Expertise**: Python, SQL, Tableau, Power BI
-- 📊 **Enfoque**: Transformar datos en decisiones estratégicas  
-- 🎯 **Especialización**: Análisis operativo y optimización de procesos
-- 💡 **Filosofía**: *"Los datos no mienten, pero hay que saber hacerles las preguntas correctas"*
-
-### 🌐 Enlace de Contacto
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0v4nn3ss)
-
-## 🤝 Contribuciones
-
-¿Tienes ideas para mejorar este análisis? ¡Las contribuciones son bienvenidas!
-
-1. Fork el proyecto
-2. Crea tu rama de feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`) 
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-<div align="center">
-
-**⭐ Si este análisis te resultó útil, considera darle una estrella al repositorio ⭐**
-
-**🔄 ¿Tienes datos similares? ¡Adaptemos este análisis a tu caso específico!**
-
-Made with ❤️ and 📊 by [Andrés Ohannessian](https://github.com/h0v4nn3ss)
-
-</div>yter-Notebook-orange.svg)](https://jupyter.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red.svg)](https://matplotlib.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
